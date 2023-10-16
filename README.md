@@ -22,6 +22,6 @@ To get your own micro:bit, visit our online store: https://roboticx.ps/
 
 Follow us on social media:
 
-    Facebook: https://www.facebook.com/Roboticxps
-    Instagram: https://www.instagram.com/roboticx.ps/
-    YouTube: https://www.youtube.com/@Roboticxps
+* Facebook: https://www.facebook.com/Roboticxps
+* Instagram: https://www.instagram.com/roboticx.ps/
+* YouTube: https://www.youtube.com/@Roboticxps
